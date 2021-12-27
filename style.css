@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+
+ #name {
+     color: blue;
+ }
+
+ #properties {
+     background-color: #eeffee;
+     border: darkgreen 1px solid;
+ }
+
+ #properties {
+     font-weight: bold;
+     text-decoration: underline;
+ }
+
+.red {
+    color: red;
+}
